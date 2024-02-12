@@ -52062,7 +52062,7 @@ A.Gz.prototype={
 aO(){A.xy(B.wY,new A.Yi(this),t.P)
 this.bc()},
 N(a){var s=null
-return A.adj(A.fR(B.ac,A.b([new A.e2(B.b6,A.dF("backgrounds/splash_screen_background.png",B.cz,s),s),A.a0C(32,A.hP("Loading...",A.aM(a).p3.d,B.ab),s,s,16,16,s,s)],t.D),B.an),!0)}}
+return A.adj(A.fR(B.ac,A.b([new A.e2(B.b6,A.dF("assets/backgrounds/splash_screen_background.png",B.cz,s),s),A.a0C(32,A.hP("Loading...",A.aM(a).p3.d,B.ab),s,s,16,16,s,s)],t.D),B.an),!0)}}
 A.Yi.prototype={
 $0(){var s,r,q=this.a.c
 q.toString
