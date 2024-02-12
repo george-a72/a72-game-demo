@@ -51900,8 +51900,8 @@ A.oU.prototype={
 ah(){return new A.Dw(B.m)}}
 A.Dw.prototype={
 aO(){this.bc()},
-N(a){var s=null,r=A.dF("backgrounds/empty_background.png",B.cz,s),q=A.dF("brand_logo.png",B.bC,130),p=A.hP("HOW TO PLAY:",A.aM(a).p3.r,B.ab),o=A.hP("Tap as many as you can!",A.aM(a).p3.z,B.ab),n=$.a_p(),m=t.D
-return A.a0O(s,A.fR(B.ac,A.b([new A.e2(B.b6,r,s),new A.dN(B.ip,A.Kh(A.b([new A.cV(B.X,s,s,q,s),B.dM,p,B.fG,o,B.fG,new A.p7(B.b.gE(n),s),B.fG,new A.p7(n[1],s),B.cp,new A.cV(B.X,s,s,A.dF("chance_to_win.png",B.bC,250),s),B.cp,A.lC(s,new A.qg("LETS GO!",new A.Wg(a),s),s,s,s,s,B.ey,1/0)],m),B.f9),s)],m),B.an))}}
+N(a){var s=null,r=A.dF("backgrounds/empty_background.png",B.cz,s),q=A.dF("assets/brand_logo.png",B.bC,130),p=A.hP("HOW TO PLAY:",A.aM(a).p3.r,B.ab),o=A.hP("Tap as many as you can!",A.aM(a).p3.z,B.ab),n=$.a_p(),m=t.D
+return A.a0O(s,A.fR(B.ac,A.b([new A.e2(B.b6,r,s),new A.dN(B.ip,A.Kh(A.b([new A.cV(B.X,s,s,q,s),B.dM,p,B.fG,o,B.fG,new A.p7(B.b.gE(n),s),B.fG,new A.p7(n[1],s),B.cp,new A.cV(B.X,s,s,A.dF("assets/chance_to_win.png",B.bC,250),s),B.cp,A.lC(s,new A.qg("LETS GO!",new A.Wg(a),s),s,s,s,s,B.ey,1/0)],m),B.f9),s)],m),B.an))}}
 A.Wg.prototype={
 $0(){var s=0,r=A.W(t.H),q=this
 var $async$$0=A.X(function(a,b){if(a===1)return A.T(b,r)
@@ -51931,11 +51931,11 @@ this.aT()},
 zG(a){this.am(new A.Wi(this,a))},
 Op(a){this.am(new A.Wj(this,a))
 this.zG(a)},
-N(a){var s,r,q=this,p=null,o="broken_bar.png",n=A.aM(a),m=A.dF("backgrounds/empty_background.png",B.cz,p),l=A.aM(a),k=t.D
-l=A.lC(p,A.fR(B.ac,A.b([new A.cV(B.X,p,p,A.dF("brand_logo.png",B.bC,90),p),new A.cV(B.h3,p,p,new A.dN(B.x1,new A.o1(B.h,p,B.vQ,p,B.aL,p,new A.Wn(q),new A.Wo(q),new A.Wp(),30,0,40,40,4,B.E4,A.aM(a).p3.e,"s",!0,!0,!0,new A.Kp(),!0,new A.Wq(),p),p),p)],k),B.an),l.fr,p,70,p,p,1/0)
+N(a){var s,r,q=this,p=null,o=A.aM(a),n=A.dF("assets/backgrounds/empty_background.png",B.cz,p),m=A.aM(a),l=t.D
+m=A.lC(p,A.fR(B.ac,A.b([new A.cV(B.X,p,p,A.dF("assets/brand_logo.png",B.bC,90),p),new A.cV(B.h3,p,p,new A.dN(B.x1,new A.o1(B.h,p,B.vQ,p,B.aL,p,new A.Wn(q),new A.Wo(q),new A.Wp(),30,0,40,40,4,B.E4,A.aM(a).p3.e,"s",!0,!0,!0,new A.Kp(),!0,new A.Wq(),p),p),p)],l),B.an),m.fr,p,70,p,p,1/0)
 s=A.a3x(A.fR(B.ac,A.ad(q.e,!0,t.cl),B.an),1)
 r=A.aM(a)
-return A.a0O(n.fr,A.fR(B.ac,A.b([new A.e2(B.b6,m,p),A.Kh(A.b([l,s,A.lC(p,A.a0M(A.b([B.cp,A.dF(o,B.e7,100),B.tm,A.hP(""+q.r+" PTS",A.aM(a).p3.d,B.ab),B.tm,A.dF(o,B.e7,100),B.cp],k),B.de,B.df),r.fr,p,70,p,p,1/0)],k),B.de)],k),B.an))}}
+return A.a0O(o.fr,A.fR(B.ac,A.b([new A.e2(B.b6,n,p),A.Kh(A.b([m,s,A.lC(p,A.a0M(A.b([B.cp,A.dF("broken_bar.png",B.e7,100),B.tm,A.hP(""+q.r+" PTS",A.aM(a).p3.d,B.ab),B.tm,A.dF("assets/broken_bar.png",B.e7,100),B.cp],l),B.de,B.df),r.fr,p,70,p,p,1/0)],l),B.de)],l),B.an))}}
 A.Wm.prototype={
 $0(){var s=0,r=A.W(t.H),q=this
 var $async$$0=A.X(function(a,b){if(a===1)return A.T(b,r)
@@ -52044,8 +52044,8 @@ s.aT()}}
 A.kD.prototype={
 ah(){return new A.FZ(B.m)}}
 A.FZ.prototype={
-N(a){var s=null,r=A.dF("backgrounds/empty_background.png",B.cz,s),q=A.aM(a),p=t.D
-return A.a0O(s,A.fR(B.ac,A.b([new A.e2(B.b6,r,s),A.Kh(A.b([A.lC(s,new A.cV(B.X,s,s,A.dF("brand_logo.png",B.bC,90),s),q.fr,s,70,s,s,1/0),B.dM,new A.cV(B.X,s,s,A.dF("chance_to_win.png",B.bC,1/0),s),B.dM,A.hP("YOUR SCORE IS:",A.aM(a).p3.r,B.ab),B.dM,new A.dN(B.x4,A.hP("Speak to a brand ambassador to collect your prize.",A.aM(a).p3.z,B.ab),s),B.cp,new A.dN(B.ip,A.lC(s,new A.qg("PLAY AGAIN",new A.XQ(a),s),s,s,s,s,B.ey,1/0),s)],p),B.f9)],p),B.an))}}
+N(a){var s=null,r=A.dF("assets/backgrounds/empty_background.png",B.cz,s),q=A.aM(a),p=t.D
+return A.a0O(s,A.fR(B.ac,A.b([new A.e2(B.b6,r,s),A.Kh(A.b([A.lC(s,new A.cV(B.X,s,s,A.dF("assets/brand_logo.png",B.bC,90),s),q.fr,s,70,s,s,1/0),B.dM,new A.cV(B.X,s,s,A.dF("assets/chance_to_win.png",B.bC,1/0),s),B.dM,A.hP("YOUR SCORE IS:",A.aM(a).p3.r,B.ab),B.dM,new A.dN(B.x4,A.hP("Speak to a brand ambassador to collect your prize.",A.aM(a).p3.z,B.ab),s),B.cp,new A.dN(B.ip,A.lC(s,new A.qg("PLAY AGAIN",new A.XQ(a),s),s,s,s,s,B.ey,1/0),s)],p),B.f9)],p),B.an))}}
 A.XQ.prototype={
 $0(){var s=0,r=A.W(t.H),q=this
 var $async$$0=A.X(function(a,b){if(a===1)return A.T(b,r)
@@ -56591,7 +56591,7 @@ s($,"akp","a8s",()=>A.dT(1,0,t.i))
 s($,"ajv","fm",()=>A.abj())
 s($,"aku","a_q",()=>{var q=A.aex(null),p=A.aag(t.H)
 return new A.EB(B.ft,q,p)})
-s($,"ajW","a_p",()=>A.b([A.a59("sweets/sw_2.png","Double Bar",50,"sweets/sw_2_points.png"),A.a59("sweets/sw_1.png","Single Bar",100,"sweets/sw_1_points.png")],A.ab("v<AV>")))
+s($,"ajW","a_p",()=>A.b([A.a59("assets/sweets/sw_2.png","Double Bar",50,"assets/sweets/sw_2_points.png"),A.a59("assets/sweets/sw_1.png","Single Bar",100,"assets/sweets/sw_1_points.png")],A.ab("v<AV>")))
 s($,"alG","a98",()=>{$.a_p()
 return 2})})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
