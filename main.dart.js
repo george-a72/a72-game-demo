@@ -78791,7 +78791,7 @@ return A.L(null,r)}})
 return A.M($async$vd,r)},
 q8(){var s=0,r=A.N(t.H),q
 var $async$q8=A.I(function(a,b){if(a===1)return A.K(b,r)
-while(true)switch(s){case 0:q=A.mC("mailto:hello@agency72.com?subject")
+while(true)switch(s){case 0:q=A.mC("mailto:hello@agency72.com?subject=")
 s=5
 return A.U(A.aox(q),$async$q8)
 case 5:s=b?2:4
